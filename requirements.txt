@@ -1,4 +1,0 @@
-pypdf
-pinecone
-python-dotenv
-google-generativeai
